@@ -83,7 +83,14 @@ Scripts for automating routine system checks and troubleshooting tasks.
 
 ## 🤝 Connect With Me
 
-💻 [GitHub Profile](https://github.com/Mannkumarsharma)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mann-kumar-sharma-660298268/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
+  </a>
+  <a href="https://github.com/Mannkumarsharma">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+</p>
 
 ---
 
